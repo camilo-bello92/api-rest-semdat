@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "url": "mongodb://camilo:cbellodev92@LAPTOP-V799F63G:27017/relation",
+  "host": "LAPTOP-V799F63G",
+  "port": 27017,
+  "user": "camilo",
+  "password": "cbellodev92",
+  "database": "relation"
+}
